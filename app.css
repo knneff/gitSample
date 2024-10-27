@@ -3,3 +3,15 @@ p {
     width: 80%;
     text-transform: uppercase;
 }
+
+h2 {
+    background-color: antiquewhite;
+    color: dimgray;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+
+h2:first-of-type {
+    margin-top: 50px;
+}
